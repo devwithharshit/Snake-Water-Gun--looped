@@ -1,4 +1,4 @@
-Snake, Water, Gun Game (Non-Looped)
+Snake, Water, Gun Game (Looped)
 A simple command-line game written in Python using basic conditionals, loops, and random choices.
 
 How to Play
